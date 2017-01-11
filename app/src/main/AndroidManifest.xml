@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".freqView.FreqViewActivity"></activity>
+        <activity android:name=".freqView.FreqViewActivity" />
+        <activity android:name=".syncbutton.SyncButtonActivity" />
+        <activity android:name=".seekBar.SeekBarActivity"></activity>
     </application>
 
 </manifest>
